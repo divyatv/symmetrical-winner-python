@@ -1,0 +1,52 @@
+May 28th 2019:
+---------------------------------------------
+*Class Objectives*
+
+```Students will be comfortable formatting spreadsheets using VBA code
+Students will understand how to loop through a table using VBA code and check for changes in values```
+conda create -n PythonData python=3.6 anaconda
+
+June 1 2019:
+------------------------------------------
+Class Objectives
+    Students should feel confident reading data into Python from CSV files.
+    Students should feel confident writing data from Python into CSV files.
+    Students should know how to zip two lists together and know when this is helpful.
+    Students should understand well how to create and use Python functions.
+
+June 4 2019:
+-------------------
+*Class Objectives*
+```Students will be able to add, commit, and push code up to GitHub from the command line.
+Students will be able to create and use Python dictionaries.
+Students will be able to read data in from a dictionary.
+Students will be able to use list comprehensions.
+Students will be able to write and re use Python function.
+Students will have a firm understanding of coding logic and reasoning.```
+
+June 6 2019:
+--------------------
+Class Objectives
+
+    Students will be able to serve Jupyter notebook files from local directories and connect to their development environment
+    Students will be able to create Pandas DataFrames from scratch
+    Students will understand how to run functions on Pandas DataFrames
+    Students will know how to read/write DataFrames from/to CSV files using Pandas
+
+June 8 2019:
+----------------------
+dir() will give you the list of in scope variables:
+globals() will give you a dictionary of global variables
+locals() will give you a dictionary of local variables
+
+Students will understand how to navigate through DataFrames using Loc and Iloc
+Students will understand how to filter and slice Pandas DataFrames
+Students will understand how to create and access Pandas GroupBy objects
+Students will understand how to sort DataFrames
+
+June 11 2019:
+------------------
+Students will know how to merge DataFrames together whilst understanding the differences between inner, outer, left, and right merges.
+Students will be able to slice data using the cut() method and create new values based upon a series of bins.
+Students will feel more confident in their ability to fix Python/Pandas bugs within Jupyter Notebook.
+Students will be able to use Google to explore additional Pandas functionality when necessary.
