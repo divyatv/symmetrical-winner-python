@@ -50,3 +50,9 @@ Students will know how to merge DataFrames together whilst understanding the dif
 Students will be able to slice data using the cut() method and create new values based upon a series of bins.
 Students will feel more confident in their ability to fix Python/Pandas bugs within Jupyter Notebook.
 Students will be able to use Google to explore additional Pandas functionality when necessary.
+
+June 13 2019:
+-------------------------------------
+Students should understand Matplotlib's pyplot interface.
+Students should be able to create line, bar, scatter, and pie charts.
+Students should be able to change the appearance of their plots.
