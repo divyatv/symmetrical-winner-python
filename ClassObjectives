@@ -56,3 +56,10 @@ June 13 2019:
 Students should understand Matplotlib's pyplot interface.
 Students should be able to create line, bar, scatter, and pie charts.
 Students should be able to change the appearance of their plots.
+
+June 15 2019
+------------------------------------------------
+Students will feel comfortable creating plots using the DataFrame.plot() method
+Students will understand the advantages and disadvantages of creating charts using the DataFrame.plot()method.
+Students will be able to work their way through a complex data set using Pandas and then chart 
+some visualizations based upon the cleaned DataFrame.
