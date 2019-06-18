@@ -63,3 +63,11 @@ Students will feel comfortable creating plots using the DataFrame.plot() method
 Students will understand the advantages and disadvantages of creating charts using the DataFrame.plot()method.
 Students will be able to work their way through a complex data set using Pandas and then chart 
 some visualizations based upon the cleaned DataFrame.
+
+June 18 2019
+-------------------------------------------------------------------
+Students will be able to define mean, median, and mode, and choose which one is most appropriate to describe a given data set.
+Students will be able to explain the meaning of variance and standard deviation.
+Students will be able to describe standard error and the difference between a sample and a population.
+Students will be able to add error bars to their plots.
+Students will be able to fit lines to their data.
