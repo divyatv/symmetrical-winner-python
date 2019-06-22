@@ -78,3 +78,9 @@ Students will be able to make GET requests with requests.
 Students will be able to convert JSON into a Python dictionary.
 Students will read and apply API documentation.
 Students will sign up for and use an API key.
+
+June 22 2019
+---------------------------------------------------------------------------------
+Students will create applications from scratch using nothing but their knowledge of Python and an API documentation
+Students will load JSON from API responses into a Pandas DataFrame
+Students will be able to use try and except blocks to handle errors
