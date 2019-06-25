@@ -84,3 +84,11 @@ June 22 2019
 Students will create applications from scratch using nothing but their knowledge of Python and an API documentation
 Students will load JSON from API responses into a Pandas DataFrame
 Students will be able to use try and except blocks to handle errors
+
+June 25 2019
+-------------------------------------------------------------------------------------------
+Students will be able to successfully use the Google Maps and Places API to obtain information about geographic areas.
+Students will understand how to use the Census API wrapper.
+Students will understand the concept of rate limits and the importance of creating "test cases" prior to running large scripts.
+Students will have a firmer understanding of how to dissect new API documentation.
+Students will be able to visually represent data on a map with Jupyter Gmaps.
