@@ -102,3 +102,10 @@ July 18 2019
 Create aggregate queries.
 Create subqueries to explore data further.
 Create views and run subqueries off of them.
+
+July 25 2019
+-----------------------
+
+Students will learn how to create Python classes and objects
+Students will be able to create, read, update, and delete data from a SQL database using SQLAlchemy's ORM
+Students will be able to reflect existing databases.
