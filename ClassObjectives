@@ -137,3 +137,10 @@ August 6 2019 Tuesday
 * Students will be able to create and connect to local MongoDB databases
 * Students will learn to create, read, update, and delete MongoDB documents using the Mongo Shell
 * Students will create simple Python applications that connect to and modify MongoDB databases using the PyMongo library
+
+August 10 2019 Saturday
+---------------------------------------------------------
+Students will become comfortable rendering templates with Flask using data retrieved from a Mongo database.
+Students will be able to use Beautiful Soup to scrape data
+Students will use PyMongo to save data to a Mongo database
+Students will use Flask to render templates
