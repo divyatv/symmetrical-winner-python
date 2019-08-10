@@ -138,6 +138,12 @@ August 6 2019 Tuesday
 * Students will learn to create, read, update, and delete MongoDB documents using the Mongo Shell
 * Students will create simple Python applications that connect to and modify MongoDB databases using the PyMongo library
 
+August 8 2019 Thursday
+-----------------------------------------------------------------------------------
+Class Objectives
+Students will be able to use Beautiful Soup to scrape their own data from the web.
+Students will learn to save the results of web scraping into MongoDB.
+
 August 10 2019 Saturday
 ---------------------------------------------------------
 Students will become comfortable rendering templates with Flask using data retrieved from a Mongo database.
