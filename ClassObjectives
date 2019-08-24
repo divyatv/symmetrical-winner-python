@@ -150,3 +150,21 @@ Students will become comfortable rendering templates with Flask using data retri
 Students will be able to use Beautiful Soup to scrape data
 Students will use PyMongo to save data to a Mongo database
 Students will use Flask to render templates
+
+August 22 2019
+------------------------------------
+Students will understand and be able to use forEach and callback functions and how to use them.
+Students will create, update, and iterate JavaScript Objects.
+Students will understand how to apply map and filter to parse data.
+Students will be able to create and use arrow functions to simplify code.
+Students will understand the basic structure of a Bootstrap HTML table.
+
+August 24 2019
+---------------------------
+* Students will use D3 for basic DOM manipulation.
+* Students will be able to populate a table using static data structures.
+* Students will understand events.
+* Students will be able to use `this` to reference elements.
+* Students will use D3 to attach events to DOM elements.
+* Students will dynamically manipulate the DOM through events.
+* Students will be able to dynamically filter tables.
