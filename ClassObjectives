@@ -168,3 +168,10 @@ August 24 2019
 * Students will use D3 to attach events to DOM elements.
 * Students will dynamically manipulate the DOM through events.
 * Students will be able to dynamically filter tables.
+
+August 27 2019
+---------------------------------------
+* Students will be able to use arrow functions, `.map()`, and `forEach()` for data manipulation.
+* Students will learn to use Plotly to create the fundamental charts: Box, scatter, bar, pie, and line plots.
+* Students will use Plotly's `layout` object to customize the appearance of their charts.
+* Students will annotate charts with labels; text; and hover info.
