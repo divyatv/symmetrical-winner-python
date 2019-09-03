@@ -175,3 +175,9 @@ August 27 2019
 * Students will learn to use Plotly to create the fundamental charts: Box, scatter, bar, pie, and line plots.
 * Students will use Plotly's `layout` object to customize the appearance of their charts.
 * Students will annotate charts with labels; text; and hover info.
+
+September 3 2019
+-------------------------------------------------------
+### Class Objectives
+* Students will be able to use Flask to render a Plotly visualization to the browser.
+* Students will use Flask to serve data to a Plotly frontend.
