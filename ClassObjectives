@@ -181,3 +181,9 @@ September 3 2019
 ### Class Objectives
 * Students will be able to use Flask to render a Plotly visualization to the browser.
 * Students will use Flask to serve data to a Plotly frontend.
+
+September 5 2019
+----------------------------------------------------------------------------
+Students will gain a high-level understanding of SVG elements and how to append/modify them using D3.
+Students will understand how to bind data to SVG elements using D3 so as to create basic bar charts from scratch.
+Students will create a bar chart with axes using D3 so as to visualize data.
