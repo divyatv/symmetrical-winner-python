@@ -193,3 +193,10 @@ September 7 2019
 * Students will deepen their knowledge of the D3 library.
 * Students will create different types of charts and graphs using D3.
 * Students will cover creating scales and axes in D3.
+
+September 10 2019
+-------------------------------------------------------------------
+* Students will understand the benefits that visualizing data with maps can provide.
+* Students will learn the basics of creating maps and plotting data with the Leaflet.js library.
+* Students will gain an understanding of the GeoJSON format.
+* Students will understand the concept of layers and layer controls and how we can use them to add interactivity to our maps.
