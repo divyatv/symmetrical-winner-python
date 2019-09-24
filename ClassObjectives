@@ -223,3 +223,11 @@ Students will be able to compare and contrast the features of Python and R.
 
 install.packages("magrittr") # package installations are only needed the first time you use it
 install.packages("dplyr")    # alternative installation of the %>%
+
+September 24 2019
+=-----------------------------
+Class Objectives
+Students will be able to load data into tibbles.
+Students will be able to use the pipe operator to sequentialize operations.
+Students will be able to create tibbles.
+Students will be able to manipulate data in tibbles.
