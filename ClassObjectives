@@ -231,3 +231,10 @@ Students will be able to load data into tibbles.
 Students will be able to use the pipe operator to sequentialize operations.
 Students will be able to create tibbles.
 Students will be able to manipulate data in tibbles.
+
+October 3 2019
+=================================================
+Students will understand how to calculate and apply regression analysis to datasets.
+Students will understand the difference between linear and non-linear data.
+Students will understand how to quantify and validate linear models.
+Students will understand how to apply scaling and normalization as part of the data preprocessing step in machine learning.
