@@ -243,3 +243,10 @@ Students will understand how to calculate and apply regression analysis to datas
 Students will understand the difference between linear and non-linear data.
 Students will understand how to quantify and validate linear models.
 Students will understand how to apply scaling and normalization as part of the data preprocessing step in machine learning.
+
+October 5 2019
+=========================
+Students will understand how to calculate and apply the fundamental classification algorithms: logistic regression, SVM, KNN, decision trees, and random forests.
+
+Students will understand how to quantify and validate classification models including calculating a classification report.
+Students will understand how to apply GridSearchCV to hyper tune model parameters.
