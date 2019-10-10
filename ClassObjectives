@@ -249,3 +249,10 @@ October 5 2019
 Students will understand how to calculate and apply the fundamental classification algorithms: logistic regression, SVM, KNN, decision trees, and random forests.
 Students will understand how to quantify and validate classification models including calculating a classification report.
 Students will understand how to apply GridSearchCV to hyper tune model parameters.
+
+October 10 2019
+=====================
+Students will be able to articulate specific problems on which neural networks perform well.
+Students will be able to use Keras to build and train neural networks.
+Students will be able to use Keras to build and a train a deep neural network.
+Students will understand unsupervised learning and how to apply the Kmeans algorithm.
