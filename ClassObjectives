@@ -256,3 +256,11 @@ Students will be able to articulate specific problems on which neural networks p
 Students will be able to use Keras to build and train neural networks.
 Students will be able to use Keras to build and a train a deep neural network.
 Students will understand unsupervised learning and how to apply the Kmeans algorithm.
+
+October 15 2019
+========================
+By the end of today's class, students will be able to:
+Identify the pieces of the Hadoop ecosystem.
+Identify the differences and similarities between Hadoop and Spark.
+Write MapReduce jobs locally with mrjob.
+Manipulate data using PySpark DataFrames.
